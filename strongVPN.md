@@ -1,6 +1,6 @@
 如果你不能修改host文件，可以尝试下述网址
 
-···
+```
 https://strongvpn.cc/
 or https://strongtech.org/
 or https://strongconnectivity.com/
@@ -28,7 +28,7 @@ or https://strongconnectivity.com/
 69.16.145.213 links.strongvpn.com
 192.200.155.38 affiliate.strongvpn.com
 104.16.53.111 support.strongvpn.com
-···
+```
 
 如果无法以root 权限安全应用
 
