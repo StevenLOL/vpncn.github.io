@@ -28,3 +28,11 @@ or https://strongconnectivity.com/
 69.16.145.213 links.strongvpn.com
 192.200.155.38 affiliate.strongvpn.com
 104.16.53.111 support.strongvpn.com
+
+如果无法以root 权限安全应用
+
+则可以尝试安装 chrome 插件 strongproxy
+这时基本上因为无法连接外网，而无法登陆 chrome store
+这个时候，你需要 https://www.crx4chrome.com/
+
+
